@@ -1,2 +1,2 @@
 # PracticalTest01
-eim2016test1
+Suciu Andrei Corneliu 342C5
